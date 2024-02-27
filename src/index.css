@@ -1,6 +1,5 @@
 body{
     width: 100%;
-    height: 1000px;
     background-image: linear-gradient(to bottom left, #ff3867, #ffc873, #d37ec6);
 }
 #secCapa{
@@ -13,5 +12,11 @@ body{
     height: 600px;
     background-color: white;
     border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(145,145,145,1);
+    box-shadow: inset 0px 0px 13px 0px rgba(145,145,145,1);
 }
-
+#portada{
+    width: 300px;
+    height: 200px;
+    background-image: url();
+}
